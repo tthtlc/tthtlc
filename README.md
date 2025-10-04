@@ -2,12 +2,9 @@
 
 About Me:
 
-- 🔭 I’m currently working on mobile apps and server side laravel/VueJS/ReactJS development.
-- 🌱 I’m currently learning flutter.
-- 👯 I’m looking to collaborate on pentesting mobile apps.
+- 🔭 I’m currently working on ReactJS/NextJS development.
+- 👯 I’m looking to collaborate on CTFs.
 - 👯 I’m looking to collaborate on graphics https://tthtlc.github.io/.
-- 🤔 I’m looking for help with mobile apps and server side development.
-- 💬 Ask me about Physics and Computers.
 - 📫 How to reach me: htmldeveloper@gmail.com- 
 
 &nbsp;![](https://komarev.com/ghpvc/?username=tthtlc&color=brightgreen)
